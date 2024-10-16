@@ -1,1 +1,1 @@
-sdsssss
+I evo ga jedan test.
