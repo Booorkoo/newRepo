@@ -7,7 +7,7 @@ TUV Trust IT
 **Version: \[\[doc-version\]\]**
 
 **Release Date: \[\[doc-release-date\]\]**
-Borko
+
 # Activity Diagram
 
 ![](Demo-1.0.0/Demo-1.0.0.md1728637074056.PNG)
